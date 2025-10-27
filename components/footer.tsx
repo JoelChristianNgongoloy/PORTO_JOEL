@@ -15,34 +15,6 @@ export default function Footer() {
             </span>
           </div>
 
-          {/* Social Media Links */}
-          <div className="flex items-center gap-6 text-gray-400">
-            <a
-              href="https://github.com/username"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-neonSky transition-colors duration-300"
-            >
-              <Github size={22} />
-            </a>
-            <a
-              href="https://linkedin.com/in/username"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-neonSky transition-colors duration-300"
-            >
-              <Linkedin size={22} />
-            </a>
-            <a
-              href="https://wa.me/6281234567890"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-neonSky transition-colors duration-300"
-            >
-              <Phone size={22} />
-            </a>
-          </div>
-
           {/* Copyright */}
           <p className="text-sm text-gray-500 text-center md:text-right">
             © {new Date().getFullYear()} Joel Christian. All rights reserved.
