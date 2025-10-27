@@ -48,7 +48,7 @@ export default function Projects() {
       img: "/port.png",
       title: "Portfolio Website",
       desc: "Website personal portofolio dibuat dengan menggunakan Next.js.",
-      github: "https://github.com/username/portfolio",
+      github: "https://github.com/JoelChristianNgongoloy/PORTO_JOEL.git",
     },
   ];
 
