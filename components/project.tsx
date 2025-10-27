@@ -71,13 +71,7 @@ export default function Projects() {
   };
 
   return (
-    <motion.section
-      className="relative w-full min-h-screen px-10 lg:px-48 py-20 overflow-hidden bg-gradient-to-tr from-neonDarkPurple via-black to-neonPurple"
-      initial={{ opacity: 0, y: 50 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.8, ease: "easeOut" }}
-      viewport={{ once: true }}
-    >
+    <section className="relative w-full min-h-screen px-10 lg:px-48 py-20 overflow-hidden bg-gradient-to-tr from-neonDarkPurple via-black to-neonPurple">
       {/* Background Stars */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         {stars.map((star, i) => (
@@ -150,6 +144,6 @@ export default function Projects() {
           </motion.div>
         ))}
       </motion.div>
-    </motion.section>
+    </section>
   );
 }
