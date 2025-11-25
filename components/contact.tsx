@@ -25,7 +25,7 @@ export default function Contact() {
   }, []);
 
   return (
-    <section className="relative w-full h-auto px-10 lg:px-48 py-24 overflow-hidden bg-gradient-to-br from-neonDarkPurple via-black to-neonPurple">
+    <section className="relative w-full h-auto px-10 lg:px-48 py-24 overflow-hidden bg-gradient-to-tr from-neonDarkPurple via-black to-neonPurple">
       {/* Background Stars */}
       <div className="absolute inset-0 overflow-hidden pointer-events-none">
         {stars.map((star, i) => (

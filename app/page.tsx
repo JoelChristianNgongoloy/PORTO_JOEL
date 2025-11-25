@@ -6,11 +6,12 @@ import Footer from "@/components/footer";
 import Skills from "@/components/skills";
 import Projects from "@/components/project";
 import Contact from "@/components/contact";
+import Experience from "@/components/exp";
 
 export default function Home() {
   return (
     <div className="h-screen w-full bg-neonDarkPurple">
-        <Banner />
+      <Banner />
 
       <section id="about">
         <About />
@@ -22,6 +23,10 @@ export default function Home() {
 
       <section id="projects">
         <Projects />
+      </section>
+
+      <section id="experience">
+        <Experience />
       </section>
 
       <section id="contact">

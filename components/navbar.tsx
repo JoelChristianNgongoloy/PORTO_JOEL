@@ -55,6 +55,14 @@ export default function Navbar() {
               <li>
                 <a
                   className="text-neonSky transition hover:text-neonBlue"
+                  href="#experience"
+                >
+                  Experience
+                </a>
+              </li>
+              <li>
+                <a
+                  className="text-neonSky transition hover:text-neonBlue"
                   href="#contact"
                 >
                   Contact

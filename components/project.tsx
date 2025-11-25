@@ -99,7 +99,6 @@ export default function Projects() {
         My Projects 🚀
       </motion.h1>
 
-      {/* Project Cards */}
       <motion.div
         variants={container}
         initial="hidden"
@@ -129,7 +128,6 @@ export default function Projects() {
               </p>
             </div>
 
-            {/* GitHub Icon */}
             <div className="flex justify-center mt-4">
               <a
                 href={project.github}
