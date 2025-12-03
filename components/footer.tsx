@@ -3,7 +3,7 @@ import { Github, Linkedin, Phone } from "lucide-react";
 export default function Footer() {
   return (
     <>
-      <footer className="bg-gradient-to-tr from-neonDarkPurple via-black to-neonPurple text-gray-300 py-8 border-t border-gray-700">
+      <footer className="bg-gradient-to-br from-neonDarkPurple via-black to-neonPurple text-gray-300 py-8 border-t border-gray-700">
         <div className="max-w-screen-xl mx-auto px-6 flex flex-col md:flex-row items-center justify-between gap-4">
           {/* Logo / Nama */}
           <div className="flex items-center gap-3">
