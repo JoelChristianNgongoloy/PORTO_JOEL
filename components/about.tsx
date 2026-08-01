@@ -68,16 +68,16 @@ export default function About() {
           </h3>
 
           <p className="text-sm sm:text-base md:text-lg font-normal text-neonSky pb-6 leading-relaxed">
-            Halo, saya lulusan S1 Informatika Universitas Atma Jaya Yogyakarta
-            tahun 2025. Saya punya minat besar di bidang{" "}
+            Hello, I am a 2025 Informatics graduate from Atma Jaya University
+            Yogyakarta. I have a strong interest in{" "}
             <span className="font-semibold text-neonPurple">
-              pengembangan website
+              website
             </span>{" "}
-            dan{" "}
+            and{" "}
             <span className="font-semibold text-neonPurple">
-              aplikasi mobile
+              mobile application development
             </span>
-            , baik di sisi{" "}
+            , covering{" "}
             <span className="font-semibold text-neonPurple">Frontend</span>,{" "}
             <span className="font-semibold text-neonPurple">Backend</span>, dan{" "}
             <span className="font-semibold text-neonPurple">Fullstack</span>.

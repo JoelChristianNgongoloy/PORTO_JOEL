@@ -25,7 +25,6 @@ export default function Navbar() {
           <a className="block text-neonSky font-bold text-xl transition hover:text-neonBlue">
             JOEL CHRISTIAN 👨🏻‍💻
           </a>
-
           <nav aria-label="Global" className="hidden md:block">
             <ul className="flex items-center gap-9 text-lg font-bold">
               <li>

@@ -22,32 +22,32 @@ export default function Projects() {
     {
       img: "/mobile.png",
       title: "Tria News App",
-      desc: "Mobile App untuk baca berita dibuat menggunakan Flutter dan Laravel.",
+      desc: "A mobile app for reading news, built using Flutter and Laravel.",
       github: "https://github.com/JoyB00/TriaNews_Mobile_Application.git",
     },
     {
       img: "/eclat.png",
       title: "Coffee Shop Dashboard",
-      desc: "Website Management Coffee Shop dibuat menggunakan Next.js dan NestJS.",
+      desc: "A website for managing a coffee shop, built using Next.js and NestJS.",
       github:
         "https://github.com/JoelChristianNgongoloy/fe-web-coffee-shop.git",
     },
     {
       img: "/kasir.png",
       title: "Kasir App",
-      desc: "App Kasir Coffee Shop dibuat menggunakan React Native dan NestJS.",
+      desc: "A cash register app for a coffee shop, built using React Native and NestJS.",
       github: "https://github.com/JoelChristianNgongoloy/FEKASIR.git",
     },
     {
       img: "/image.png",
       title: "AI Clothing Classifier",
-      desc: "Prediksi jenis Pakaian Tradisional Sulawesi menggunakan CNN Inception V3 dan Streamlit.",
+      desc: "A machine learning model for predicting traditional Sulawesi clothing types using CNN Inception V3 and Streamlit.",
       github: "https://github.com/JoelChristianNgongoloy/CNN_STREAMLIT.git",
     },
     {
       img: "/port.png",
       title: "Portfolio Website",
-      desc: "Website personal portofolio dibuat dengan menggunakan Next.js.",
+      desc: "A personal portfolio website built with Next.js.",
       github: "https://github.com/JoelChristianNgongoloy/PORTO_JOEL.git",
     },
   ];

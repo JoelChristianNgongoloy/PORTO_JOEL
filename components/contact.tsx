@@ -61,7 +61,7 @@ export default function Contact() {
         viewport={{ once: true }}
         className="text-center text-gray-300 max-w-2xl mx-auto text-lg mb-16"
       >
-        Kamu bisa hubungi aku lewat email, LinkedIn, GitHub, atau langsung chat
+        You can contact me via email, LinkedIn, GitHub, or directly chat
         via WhatsApp 📱
       </motion.p>
 
@@ -123,7 +123,7 @@ export default function Contact() {
         <div className="group border-2 border-neonBlue rounded-xl p-6 bg-transparent hover:bg-neonBlue/10 transition-all duration-300 hover:scale-105 shadow-lg shadow-neonSky/30">
           <FaMapMarkerAlt className="text-neonSky text-4xl mb-4 mx-auto group-hover:animate-pulse" />
           <h2 className="text-white font-semibold text-lg mb-2">Location</h2>
-          <p className="text-gray-400 text-sm">Bandung, Indonesia</p>
+          <p className="text-gray-400 text-sm">Jakarta Barat, Indonesia</p>
         </div>
       </motion.div>
     </section>
