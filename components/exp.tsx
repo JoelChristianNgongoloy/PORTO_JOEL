@@ -41,7 +41,7 @@ export default function Experience() {
       website: "https://padepokan79.com/",
       posisi: "Backend Developer",
       waktu: "Desember 2025 - Juni 2026",
-      desc: "Responsible for developing a coffee shop management website using Next.js and building a React Native-based POS application. On the backend, I developed REST APIs using NestJS and Prisma ORM, with PostgreSQL as the primary database.",
+      desc: "Developed backend systems using Java Spring Boot, Contributed to internal ERP system development using Odoo, Customized Odoo modules based on business requirements, Implemented business logic, workflows, and data integration, Collaborated with developers and stakeholders for system analysis, Used Git for version control and team collaboration.",
       logo: "/p79.png",
     },
     {
